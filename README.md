@@ -1,4 +1,10 @@
 # Blogging-Single-Page-Application-Wordict
+
+Tech Stack:
+1. JavaScript
+2. HTML
+3. CSSS
+
 ABSTRACT:
 
 The idea of this project is to create a blogging web application and provide certain services to users who register. This online application elementally focuses on to make people
