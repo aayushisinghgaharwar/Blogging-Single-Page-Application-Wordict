@@ -1,4 +1,4 @@
-# Blogging-Single-Page-Application-Wordict
+# Blogging Single Page Application: Wordict
 
 Tech Stack:
 1. JavaScript
